@@ -26,7 +26,7 @@ const products = [
     id: 3,
     name: "Mouse",
     price: 200,
-   image: process.env.PUBLIC_URL + "/image/mouse.png"
+   image: "/image/mouse.png"
   }
 ];
 
